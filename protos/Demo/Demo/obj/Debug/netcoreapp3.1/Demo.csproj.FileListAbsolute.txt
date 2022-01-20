@@ -1,0 +1,13 @@
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.exe
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.json
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.runtimeconfig.dev.json
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+D:\GitHub\synchronization-demo-private\ansys\api\test\v0\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.genruntimeconfig.cache
