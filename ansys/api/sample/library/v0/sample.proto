@@ -1,0 +1,23 @@
+/*
+*  ©2022, ANSYS Inc. Unauthorized use, distribution or duplication is prohibited.
+*/
+
+syntax = "proto3";
+
+package ansys.api.sample.library.v0;
+
+// The 'example' service definition.
+service Example {
+  // Say hello
+  rpc SayHello (HelloRequest) returns (HelloReply) {}
+}
+
+// The request message containing the speaker's name.
+message HelloRequest {
+  string name = 1;
+}
+
+// The response message containing the answer
+message HelloReply {
+  string answer = 1;
+}
